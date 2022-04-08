@@ -6,11 +6,11 @@
  - [開始與結束界面](#開始與結束界面)
  - [禁手機制](#禁手機制)
 ## 環境配置
-&emsp;windows平臺下面安裝codeblock程序：   
-&emsp;&emsp;* **codeblock 官網：http://www.codeblocks.org/**   
-&emsp;&emsp;&emsp;點擊Downloads, 推薦下載自帶 TDM-GCC 編譯器的 codeblocks-17.12mingw-setup.exe 安裝包。   
-&emsp;&emsp;&emsp;運行安裝包 .exe 即可進入安裝界面。按照界面的提示信息一步一步操作。    
-&emsp;&emsp;* **執行 五子棋.cbp 類似於linux的makefile，可以同時編譯多個檔案。**   
+windows平臺下面安裝codeblock程序：   
+&emsp;* **codeblock 官網：http://www.codeblocks.org/**   
+&emsp;&emsp;點擊Downloads, 推薦下載自帶 TDM-GCC 編譯器的 codeblocks-17.12mingw-setup.exe 安裝包。   
+&emsp;&emsp;運行安裝包 .exe 即可進入安裝界面。按照界面的提示信息一步一步操作。    
+&emsp;* **執行 五子棋.cbp 類似於linux的makefile，可以同時編譯多個檔案。**   
 ## 設計動機
 因為小時候很喜歡跟媽媽下棋，現在身為一個工程背景的學生，想說用oop去實現它，並且完成禁手相關的限制，讓專案變得更完整。
 ## 玩法歸則
