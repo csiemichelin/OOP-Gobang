@@ -20,5 +20,5 @@
 &emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/v2.png" width="200" height="200">    
 **3.** 雙活三：黑子一子形成**二個活三**的著手，此子為兩個活三的交點。     
 &emsp;(1) 活四：次一子於兩端皆可形成五的四子連線。     
-&emsp;(2) 活三：**次一子可形成活四**的三子連線，**且形成活四的點不可同時形成五或禁手**。 
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/v3.png" width="200" height="300">&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/v4.png" width="200" height="300">      
+&emsp;(2) 活三：**次一子可形成活四**的三子連線，**且形成活四的點不可同時形成五或禁手**。    
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/v3.png" width="200" height="200">&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/v4.png" width="200" height="200">      
