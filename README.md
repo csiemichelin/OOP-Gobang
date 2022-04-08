@@ -17,12 +17,13 @@ windows平臺下面安裝codeblock程序：
 **1.** 由黑棋先行，黑白雙方輪流落子在棋盤的交叉點。  
 **2.** 先在棋盤上形成橫、直、或縱的連續五個棋子者（連五）為勝。  
 **3.** 棋盤大小有分15、17、19等幾種，目前均以15x15為標準。 
-## 開始與結束界面
-由黑棋先手   
+## 開始與結束界面   
 **1.** 開始界面     
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/s1.png" width="200" height="200">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/s1.png" width="200" height="200"> 
+&emsp;由黑棋先手   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/s2.png" width="200" height="200">  
 **2.** 結束界面    
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/s2.png" width="200" height="200">    
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/s3.png" width="200" height="200">    
 ## 禁手機制   
 黑棋的禁手包含長連、雙四、雙活三，以下簡單介紹：    
 **1.** 原則：    
