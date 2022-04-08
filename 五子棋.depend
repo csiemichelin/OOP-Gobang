@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1497723193 source:c:\users\owner\desktop\ㄽ쨖닌\main.cpp
+	<iostream>
+	<Chessboard.h>
+	<player.h>
+	<windows.h>
+
+1497722816 source:c:\users\owner\desktop\ㄽ쨖닌\src\chessboard.cpp
+	"Chessboard.h"
+	<iostream>
+
+1497722816 c:\users\owner\desktop\ㄽ쨖닌\include\chessboard.h
+	<vector>
+
+1497702886 source:c:\users\owner\desktop\ㄽ쨖닌\src\player.cpp
+	"player.h"
+
+1497722816 c:\users\owner\desktop\ㄽ쨖닌\include\player.h
+	<vector>
+
+1497772685 source:d:\users\acer\desktop\ㄽ쨖닌\main.cpp
+	<iostream>
+	<Chessboard.h>
+	<player.h>
+	<windows.h>
+
+1497733168 d:\users\acer\desktop\ㄽ쨖닌\include\chessboard.h
+	<vector>
+	<windows.h>
+	<vector>
+
+1497722816 d:\users\acer\desktop\ㄽ쨖닌\include\player.h
+	<vector>
+
+1497765738 source:d:\users\acer\desktop\ㄽ쨖닌\src\chessboard.cpp
+	"Chessboard.h"
+	<iostream>
+
+1497770148 source:d:\users\acer\desktop\ㄽ쨖닌\src\player.cpp
+	"player.h"
+
