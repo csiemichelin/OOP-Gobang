@@ -11,9 +11,9 @@
 **3.** 棋盤大小有分15、17、19等幾種，目前均以15x15為標準。 
 ## 開始與結束界面
 由黑棋先手
-**1.** 開始界面  
+**1.** 開始界面     
 &emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/s1.png" width="200" height="200">   
-**2.** 結束界面  
+**2.** 結束界面    
 &emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/OOP-Gobang/blob/main/res_image/s2.png" width="200" height="200">    
 ## 禁手機制   
 黑棋的禁手包含長連、雙四、雙活三，以下簡單介紹：    
